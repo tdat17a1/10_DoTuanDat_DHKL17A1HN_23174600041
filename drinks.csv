@@ -1,0 +1,11 @@
+country,continent,beer_servings,wine_servings,spirit_servings
+USA,North America,245,150,90
+Canada,North America,250,130,120
+UK,Europe,300,200,100
+Germany,Europe,400,180,110
+France,Europe,100,250,150
+Italy,Europe,150,100,80
+Spain,Europe,120,90,95
+Australia,Oceania,50,200,60
+Russia,Europe,200,120,130
+Brazil,South America,300,80,110
